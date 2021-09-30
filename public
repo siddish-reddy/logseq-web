@@ -1,0 +1,17 @@
+{
+  "name": "public",
+  "path": "public",
+  "sha": "52a63e9776b92be825c22f928273299dec1d311f",
+  "size": 0,
+  "url": "https://api.github.com/repos/siddish-reddy/logseq-web/contents/public?ref=935f3e34bc3c55551372412f560090e28e4a20a0",
+  "html_url": "https://github.com/siddish-reddy/notes.siddish.com/tree/52a63e9776b92be825c22f928273299dec1d311f",
+  "git_url": "https://api.github.com/repos/siddish-reddy/notes.siddish.com/git/trees/52a63e9776b92be825c22f928273299dec1d311f",
+  "download_url": null,
+  "type": "submodule",
+  "submodule_git_url": "https://github.com/siddish-reddy/notes.siddish.com.git",
+  "_links": {
+    "self": "https://api.github.com/repos/siddish-reddy/logseq-web/contents/public?ref=935f3e34bc3c55551372412f560090e28e4a20a0",
+    "git": "https://api.github.com/repos/siddish-reddy/notes.siddish.com/git/trees/52a63e9776b92be825c22f928273299dec1d311f",
+    "html": "https://github.com/siddish-reddy/notes.siddish.com/tree/52a63e9776b92be825c22f928273299dec1d311f"
+  }
+}

@@ -1,0 +1,4 @@
+- Phrases I use in conversations assuming you would know them already😅
+-
+- Signal	Noise
+- Vitamins vs Pain Killers
