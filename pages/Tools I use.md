@@ -1,6 +1,4 @@
-#### Readwise
--
-- UnoLink
+- Readwise
 -
 - Chrome Extensions
 	- OneTab
@@ -8,6 +6,7 @@
 	- Tab Snooze
 	- Wayback Machine
 	- xTab
+	- Wayback Machine by Archive
 -
 - Development
 	- Miniconda
@@ -20,4 +19,10 @@
 -
 - Web Apps
 	- Excalidraw
-	-
+	- UnoLink
+-
+-
+- Request for Tools
+	- Extension to share a webpage
+		- not just a link but its whole trail/rabbithole
+-
