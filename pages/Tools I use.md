@@ -8,3 +8,16 @@
 	- Tab Snooze
 	- Wayback Machine
 	- xTab
+-
+- Development
+	- Miniconda
+	- VSCode
+	- AWS
+-
+- Windows Tools
+	- Everything (by voidtools)
+	- Toggl
+-
+- Web Apps
+	- Excalidraw
+	-
