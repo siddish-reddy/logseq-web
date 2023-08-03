@@ -1,0 +1,7 @@
+- How will our day to day tasks look like in 5+ years with Assistive AI
+-
+- Assumptions:
+	- Efficient¹ multilingual LLM which will have  ~ 5-10 absolute points increase over few shot tasks compared with GPT-3, and much better with zero shot tasks.
+	- Codex/AlphaCode will be smaller, locally runnable.
+	- Average machines of knowledge workers will have 64+ GB RAM and 24GB GPUs, via cloud at least
+-

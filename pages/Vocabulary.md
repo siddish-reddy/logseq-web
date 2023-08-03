@@ -1,4 +1,6 @@
-- Phrases I use in conversations assuming you would know them already😅
+- Phrases I adopted:
 -
 - Signal vs Noise
 - Vitamins vs Pain Killers
+- 80/20
+-
