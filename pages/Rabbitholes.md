@@ -1,6 +1,6 @@
 - > ❕ Warning: While some might be goldmines for you, consume only what you can apply immediately
-  ## Favorites pages by other great people:
 -
+- ## Favorites pages by other great people:
 - [Fast · Patrick Collison](https://patrickcollison.com/fast)
 	- "Some examples of people quickly accomplishing ambitious things together."
 	- Roam certainly wasn’t built in a day but,
@@ -10,3 +10,5 @@
 - Startup Concepts – A Junior VC #Startup #[[Product Management]]
 -
 - [List of software development philosophies](https://en.wikipedia.org/wiki/List_of_software_development_philosophies)
+- [Mathematics in Movies](https://people.math.harvard.edu/~knill/mathmovies/)
+-
