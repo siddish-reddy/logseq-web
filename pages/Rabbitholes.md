@@ -12,3 +12,4 @@
 - [List of software development philosophies](https://en.wikipedia.org/wiki/List_of_software_development_philosophies)
 - [Mathematics in Movies](https://people.math.harvard.edu/~knill/mathmovies/)
 -
+- [The Read-Watch-Listen list by Lambros Petrou](https://www.lambrospetrou.com/read-watch-listen/)
